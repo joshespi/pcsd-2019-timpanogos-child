@@ -22,7 +22,7 @@
             <li class="int"><a href="https://provo.edu/transportation/find-your-bus-route/">Bus Routes</a></li>
             <li class="int"><a href="https://timpanogos.provo.edu/school-information/parent-teacher-association/">PTA</a></li>
             <li class="int"><a href="https://timpanogos.provo.edu/school-information/dual-immersion/">Dual Immersion</a></li>
-            <li class="int"><a href="https://timpanogos.provo.edu/school-information/pickup-drop-off-procedures/">Pickup/Drop off Procedures</a></li>
+            <li class="int"><a href="https://timpanogos.provo.edu/school-information/student-drop-off-and-pick-up-procedures/">Student Drop Off and Pick Up Procedures</a></li>
 		</ul>
 </div>
 <div class="dropDownColumn">

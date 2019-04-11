@@ -66,7 +66,8 @@
 							<span>Apply for Free &amp; Reduced Meals</span>
 						</a>
 					</li>
-					
 				</ul>
+				<a href="https://safeut.med.utah.edu/"><img src="http://provohigh.provo.edu/wp-content/uploads/2017/02/safeUTcrisisline.jpg" alt="SafeUT Link" /></a>
+				
 			</section>
 		</aside>
