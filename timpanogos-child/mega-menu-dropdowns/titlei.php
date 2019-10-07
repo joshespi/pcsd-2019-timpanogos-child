@@ -5,7 +5,7 @@
 							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2019/01/01102019-titlei-Timpanogos-Needs-Assessment-FY18.pdf">Needs Assessment</a></li>
 							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2019/03/110118-School-Improvement-Plan.pdf">School Improvement Plan</a></li>
 						</ul>
-						<p>Title I Coordinator: Karen Cushenberry (KarenLo@provo.edu)</p>
+						<p>Title I Coordinator: Kate Pace (KateP@provo.edu)</p>
 				</div>
 				<div class="dropDownColumn">
 					<h3><img src="https://timpanogos.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Parent-School Learning Compact</h3>
