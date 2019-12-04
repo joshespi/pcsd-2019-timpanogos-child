@@ -10,13 +10,13 @@
 				<div class="dropDownColumn">
 					<h3><img src="https://timpanogos.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Parent-School Learning Compact</h3>
 						<ul>
-							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2019/01/01102019-titlei-compact2018.pdf">Parent-School Learning Compact</a></li>
-							
+							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2019/12/School-Parent-Family-Compact-English.pdf">Parent-School Learning Compact (English)</a></li>
+							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2019/12/School-Parent-Family-Compact-Spanish.pdf">Parent-School Learning Compact (Spanish)</a></li>
 						</ul>
-					<h3><img src="https://timpanogos.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Parent Involvement Policy</h3>
+					<h3><img src="https://timpanogos.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Parent Engagement Policy</h3>
 						<ul>
-							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2019/01/01102019-titlei-ParentInvolvmentPolicy-2018-19.pdf">Parent Involvement Policy</a></li>
-							
+							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2019/12/Parent-Engagement-Policy-English.pdf">Parent Engagement Policy (English)</a></li>
+							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2019/12/Parent-Engagement-Policy-Spanish.pdf">Parent Engagement Policy (Spanish)</a></li>
 						</ul>
 				</div>
 				<div class="dropDownColumn">
